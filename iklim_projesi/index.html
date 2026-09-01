@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İklim Değişikliği Soru-Cevap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>🌱 İklim Değişikliği Test & Çözüm Paneli</h1>
+        <p>Bilgini Test Et ve Çözüm Üret!</p>
+    </header>
+
+    <main class="container">
+        <section class="card game-card">
+            <button id="nextQuestionBtn">🎲 Rastgele Soru Getir</button>
+            
+            <div id="questionBox" class="question-box">
+                <h3 id="questionText">Başlamak için yukarıdaki butona bas!</h3>
+            </div>
+
+            <div id="answerSection" class="answer-section hidden">
+                <textarea id="userAnswer" placeholder="Cevabını veya çözüm önerini buraya yaz..."></textarea>
+                <button id="checkBtn">🔍 Cevabımı Kontrol Et</button>
+            </div>
+
+            <div id="resultBox" class="result-box hidden">
+                <div id="feedbackText"></div>
+                <div id="correctAnswerBox">
+                    <strong>💡 Gerçek / İdeal Çözüm:</strong>
+                    <p id="correctAnswerText"></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="card links">
+            <h2>🔗 Bilgi Kaynakları</h2>
+            <a href="https://www.un.org/en/un75/climate-crisis-race-we-can-win" target="_blank">🌐 BM: İklim Krizi Makalesi</a>
+            <a href="https://www.un.org/en/climatechange/science/causes-effects-climate-change" target="_blank">🌐 BM: Nedenler ve Etkiler</a>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
