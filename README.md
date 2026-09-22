@@ -35,5 +35,7 @@ Projedeki soruları ve ideal çözümleri hazırlarken faydalandığım bağlant
 
 Birleşmiş Milletler: İklim Krizi Makalesi
 https://www.un.org/en/un75/climate-crisis-race-we-can-win?utm_source=gemini
+
 BM: Küresel Isınmanın Nedenleri ve Etkileri
+
 https://www.un.org/en/climatechange/science/causes-effects-climate-change?utm_source=gemini
