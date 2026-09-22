@@ -34,6 +34,7 @@ Kaynaklar
 Projedeki soruları ve ideal çözümleri hazırlarken faydalandığım bağlantılar:
 
 Birleşmiş Milletler: İklim Krizi Makalesi
+
 https://www.un.org/en/un75/climate-crisis-race-we-can-win?utm_source=gemini
 
 BM: Küresel Isınmanın Nedenleri ve Etkileri
